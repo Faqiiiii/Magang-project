@@ -1,0 +1,7 @@
+python-telegram-bot==22.5
+easyocr
+opencv-python
+numpy
+google-api-python-client
+google-auth
+google-auth-oauthlib
